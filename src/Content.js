@@ -5,7 +5,7 @@ const Content = () => {
     return (
         <div className='box-container'>
             <div className='content'>
-                <button onClick={""}>Connect</button>
+                <button className="connect" onClick={""}>Connect</button>
             </div>
         </div>
     );

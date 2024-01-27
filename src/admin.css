@@ -1,0 +1,44 @@
+.main {
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+}
+
+.button-container {
+  display: flex; /* Use flexbox for button container */
+}
+
+.content1, .content2 {
+  flex: 1; /* Each button takes equal width */
+  padding: 10px; /* Add padding between buttons */
+  margin-top: 200px;
+}
+
+.connect1 {
+  width: 240px;
+  height: 200px;
+  padding: 10px;
+  font-size: 16px;
+  margin-left: 410px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.connect1:hover {
+  background-color: #0056b3;
+}
+
+.connect2 {
+  width: 240px;
+  height: 200px;
+  padding: 10px;
+  font-size: 16px;
+  margin-left: 100px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

@@ -62,7 +62,7 @@
 }
 .home-page{
     display: flex;
-    margin-left: 600px;
+    margin-left: 602px;
     height: 30px;
     cursor: pointer;
 
@@ -70,7 +70,7 @@
 .contact-page{
     display: flex;
     margin-left: 50px;
-    margin-right: 600px;
+    margin-right: 555px;
     height: 30px;
     padding-right: 45px;
     cursor: pointer;
